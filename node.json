@@ -1,0 +1,9 @@
+{
+  "Root":{
+    "firstChild":"bassant",
+    "secondChild":"123",
+    "thirdChild": ["abc","456","xyz"],
+    "fourthChild4":[ {"subChild" : "value" , "subChildtwo":"another" }]
+  }
+
+}
